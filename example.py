@@ -12,3 +12,6 @@ for i in range(0,10):
     minescript.echo(f"the value of i is {i}")
     minescript.execute(f"setblock {x+i} {y-1} {z} netherite_block")
     minescript.echo(minescript.getblock(x+i,y,z))
+
+
+
