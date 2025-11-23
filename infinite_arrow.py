@@ -12,4 +12,3 @@ while True:
                 ms.execute(f"give @s minecraft:arrow {dif}",True)
                 i.count=64
                 ms.echo(f"new count is {i.count}")
-i

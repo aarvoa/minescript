@@ -1,5 +1,5 @@
-from ursina import *
-from ursina.prehabs.first_person_controller import FirstPersonController
+from ursina_game import *
+from ursina_game.prehabs.first_person_controller import FirstPersonController
 app = Ursina()
 player = FirstPersonController()
 Sky()
